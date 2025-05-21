@@ -1,7 +1,10 @@
 # Hi, I'm Durga Tarun! 👋
 
 ## About Me
-I’m a passionate Computer Science student interested in Web Development, Machine Learning, and Cloud Computing. 
+I’m a highly motivated and detail-oriented AI student with a strong foundation in AI and DS, machine learning, Web Development,data analysis, and Cloud Computing. Proven ability to design and implement intelligent systems, with hands-on experience in 
+- Python, TensorFlow, and neural networks. Passionate about leveraging AI to solve  real-world problems, continuously learning and staying updated with the latest  advancements in the field.
+- web developement using frontend and backend frameworks
+- machine learning tools
 
 ## Skills
 - Languages: Python, C, Java
@@ -12,26 +15,18 @@ I’m a passionate Computer Science student interested in Web Development, Machi
 
 ## Projects
 
-### 1. *Student Career Recommendation System*
-A smart system that guides students on their ideal career path using ML techniques.  
+### 1. *Business Card Reader Project*
+A smart system that Reades the card on the ideal business using python.  
 [GitHub Repo](https://github.com/yourusername/student-career-recommendation)
 
-### 2. *Expense Tracker Web App*
-A full-stack web app to track personal expenses.  
-[GitHub Repo](https://github.com/yourusername/expense-tracker)
-
-### 3. *Image Processing Classifier*
-Classifies images using OpenCV and ML algorithms.  
-[GitHub Repo](https://github.com/yourusername/image-classifier)
-
 ## Certifications & Achievements
-- AWS Cloud Practitioner Certified
-- Completed Machine Learning course by Coursera
-- Excel & Power BI Dashboard certifications
+- AWS Certified Cloud Practitioner (2025) 
+- Generative AI by Microsoft and LinkedIn (2025)
+- Cyber Security Course by Higher Education (APSCHE) and Edunet Foundation (2024)
 
 ## Let's Connect
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/durga-tarun-dali)
+- [Email](mailto:tarundali406@gmail.com)
 
 <!--
 **Tarundali/Tarundali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
