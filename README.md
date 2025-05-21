@@ -17,7 +17,7 @@ I’m a highly motivated and detail-oriented AI student with a strong foundation
 
 ### 1. *Business Card Reader Project*
 A smart system that Reades the card on the ideal business using python.  
-[GitHub Repo](https://github.com/yourusername/student-career-recommendation)
+[GitHub Repo](https://github.com/Tarundali/Project_1)
 
 ## Certifications & Achievements
 - AWS Certified Cloud Practitioner (2025) 
