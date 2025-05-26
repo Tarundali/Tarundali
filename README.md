@@ -19,7 +19,7 @@ I’m a highly motivated and detail-oriented AI student with a strong foundation
 A smart system that Reades the card on the ideal business using python.  
 [GitHub Repo](https://github.com/Tarundali/Project_Businesses_card_reader)
 
-### 1. *Plagiarism Detection*
+### 2. *Plagiarism Detection*
 A User can find their input is original or copied.  
 [GitHub Repo](https://github.com/Tarundali/Project_Plagiarism)
 
